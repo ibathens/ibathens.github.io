@@ -1,0 +1,4 @@
+---
+title: Physics
+permalink: /physics
+---

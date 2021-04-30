@@ -1,0 +1,4 @@
+---
+title: Economics
+permalink: /economics
+---
