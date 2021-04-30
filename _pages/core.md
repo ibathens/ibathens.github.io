@@ -5,6 +5,6 @@ permalink: /core
 ---
 
 # Core subjects
-- [TOK](/tok)
-- [Extended Essay](/ee)
-- [CAS](/cas)
+- [TOK](/core/tok)
+- [Extended Essay](/core/ee)
+- [CAS](/core/cas)

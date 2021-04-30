@@ -1,4 +1,4 @@
 ---
 title: Biology
-permalink: /biology
+permalink: /g4/biology
 ---

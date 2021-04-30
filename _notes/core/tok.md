@@ -1,4 +1,4 @@
 ---
 title: TOK
-permalink: /TOK
+permalink: /core/TOK
 ---

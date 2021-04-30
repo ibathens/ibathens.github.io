@@ -1,4 +1,4 @@
 ---
 title: Physics
-permalink: /physics
+permalink: /g4/physics
 ---

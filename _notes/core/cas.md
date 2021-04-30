@@ -1,4 +1,4 @@
 ---
 title: CAS
-permalink: /CAS
+permalink: /core/CAS
 ---

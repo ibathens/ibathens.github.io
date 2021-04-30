@@ -1,4 +1,4 @@
 ---
 title: Chemistry
-permalink: /chemistry
+permalink: /g4/chemistry
 ---

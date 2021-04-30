@@ -1,4 +1,4 @@
 ---
 title: Visual Arts
-permalink: /visual-arts
+permalink: /g6/visual-arts
 ---

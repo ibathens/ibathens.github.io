@@ -1,4 +1,4 @@
 ---
 title: French B
-permalink: /french-b
+permalink: /g2/french-b
 ---

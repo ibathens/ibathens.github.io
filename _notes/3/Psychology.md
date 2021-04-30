@@ -1,4 +1,4 @@
 ---
 title: Psychology
-permalink: /psychology
+permalink: /g3/psychology
 ---

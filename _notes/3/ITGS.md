@@ -1,4 +1,4 @@
 ---
 title: Information Technology in a Global Society (ITGS)
-permalink: /itgs
+permalink: /g3/itgs
 ---

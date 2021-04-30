@@ -1,4 +1,4 @@
 ---
 title: "English A: Language And Literature"
-permalink: /english-a-language-and-literature
+permalink: /g1/english-a-language-and-literature
 ---

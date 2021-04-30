@@ -1,4 +1,4 @@
 ---
 title: "Mathematics: Applications & Interpretations"
-permalink: /math-ai
+permalink: /g5/math-ai
 ---

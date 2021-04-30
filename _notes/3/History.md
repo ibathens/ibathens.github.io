@@ -1,4 +1,4 @@
 ---
 title: History
-permalink: /history
+permalink: /g3/history
 ---

@@ -1,4 +1,4 @@
 ---
 title: Spanish ab initio
-permalink: /spanish-ab-initio
+permalink: /g2/spanish-ab-initio
 ---

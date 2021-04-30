@@ -1,4 +1,4 @@
 ---
 title: Extended Essay
-permalink: /ee
+permalink: /core/ee
 ---

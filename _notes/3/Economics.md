@@ -1,4 +1,4 @@
 ---
 title: Economics
-permalink: /economics
+permalink: /g3/economics
 ---

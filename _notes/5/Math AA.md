@@ -1,4 +1,4 @@
 ---
 title: "Mathematics: Analysis & Approaches"
-permalink: /math-aa
+permalink: /g5/math-aa
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Environmental Systems & Societies (ESS)"
-permalink: /ess
+permalink: /g4/ess
 ---

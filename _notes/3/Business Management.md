@@ -1,4 +1,4 @@
 ---
 title: Business Management
-permalink: /business-management
+permalink: /g3/business-management
 ---

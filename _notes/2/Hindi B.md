@@ -1,4 +1,4 @@
 ---
 title: Hindi B
-permalink: /hindi-b
+permalink: /g2/hindi-b
 ---

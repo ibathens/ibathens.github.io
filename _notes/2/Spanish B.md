@@ -1,4 +1,4 @@
 ---
 title: Spanish B
-permalink: /spanish-b
+permalink: g2//spanish-b
 ---
