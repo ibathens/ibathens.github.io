@@ -5,8 +5,10 @@ id: home
 permalink: /
 ---
 
-# Hey there 👋
+# Hey there 👋!
 
-We're a group of IB students who have made this site to share our notes on the different subjects we take!
+We're a group of IB students who have decided to share our notes to the world. For now, we mainly have notes for **subjects in Groups 3 & 4** but we're working on the rest as well!
 
-*This site only has notes for the IB Diploma Programme (for now)*
+Here's our most complete notes:
+- [Economics](/g3/economics)
+- [Physics](/g4/physics)
