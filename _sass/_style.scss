@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
-$color-text: #222222;
+$color-text: #2D3E4E;
 $color-subtext: #555555;
 $color-border: #cccccc;
 $border-radius: 5px;
 $font-family: Inter, sans-serif;
 
-$background: #F7F8F3;
-$background-accent: #e5e8d8;
-$header-accent: #002c3e;
-$nav: #002c3e;
-$accent: #f7444e;
-$interactive-accent: #d70913;
+$background: #E8ECEB;
+$background-accent: #D2DAD8;
+$header-accent: #2D3E4E;
+$accent: #E09E50;
 
 body {
   box-sizing: content-box;
@@ -140,5 +138,7 @@ code {
 }
 
 .logo {
-  font-family: "JetBrains Mono";
+  font-size: 40px;
+  font-family: "Libre Baskerville", serif;
+  margin-right: 20px;
 }
