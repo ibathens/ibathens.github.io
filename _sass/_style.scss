@@ -8,7 +8,7 @@ $border-radius: 5px;
 $font-family: Inter, sans-serif;
 
 $background: #FFFFFF;
-$background-accent: #E8ECEB;
+$background-accent: #F4F6F5;
 $header-accent: #2D3E4E;
 $accent: #E09E50;
 
@@ -27,6 +27,12 @@ body {
   @media (min-width: 820px) {
     font-size: 1.2rem;
   }
+}
+
+.logo {
+  font-size: 40px;
+  font-family: "Libre Baskerville", serif;
+  margin-right: 20px;
 }
 
 time {
@@ -106,7 +112,7 @@ strong, em {
   color: $accent;
 }
 
-nav a {
+nav a, nav p {
   color: $color-text;
   margin: 1em 0 3em;
 }
@@ -135,10 +141,4 @@ code {
   background: $background-accent;
   padding: 0.1em 0.2em;
   border-radius: 4px;
-}
-
-.logo {
-  font-size: 40px;
-  font-family: "Libre Baskerville", serif;
-  margin-right: 20px;
 }
