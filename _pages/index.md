@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Hey everyone!
+## Hey everyone!
 
 We are a group of IB students who have created this website to share our notes with the world and other IB Students! 
 
