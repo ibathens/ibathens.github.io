@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
-$color-text: #2D3E4E;
+$color-text: #000000;
 $color-subtext: #555555;
 $color-border: #cccccc;
 $border-radius: 5px;
 $body-font: Inter, sans-serif;
 
 $background: #FFFFFF;
-$background-accent: #F4F6F5;
-$header-accent: #2D3E4E;
-$accent: #E09E50;
+$background-accent: #EBFFF8;
+$header-accent: #000;
+$accent: #397F5F;
 
 body {
   box-sizing: content-box;
@@ -88,10 +88,6 @@ h6 {
   margin-bottom: 0;
   padding-bottom: 0;
   color: $header-accent;
-}
-
-h1 {
-  font-size: 1.9em;
 }
 
 a {
