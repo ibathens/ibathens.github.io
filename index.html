@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<h2 id="hey-everyone">Hey everyone!</h2>
+
+<p>We are a group of IB students who have created this website to share our notes with the world and other IB Students!</p>
+
+<p>For now we are still developing our website and are mainly focusing on notes for Group 3 &amp; 
+  4 subjects but we are working on the rest as well.</p>
+
+<p>The subjects we have some notes on right now:</p>
+<ul>
+  <li><a href="/g3/economics">Economics</a></li>
+</ul>
+
+<p>The subjects we are still working on:</p>
+<ul>
+  <li><a href="/g3/history">History</a></li>
+  <li><a href="/g3/business-management">Business Management</a></li>
+  <li><a href="/g4/biology">Biology</a></li>
+  <li><a href="/g4/physics">Physics</a></li>
+</ul>
+
+<p>In this website we will also be posting <a href="/tips">General Tips and Tricks</a> 
+  on how to manage the IB Life and post guidelines on how to proceed with the core subjects: 
+  <a href="/tok">TOK</a>, <a href="/ee">EE</a> and <a href="/cas">CAS</a>. So stay tuned for further updates!</p>
+
+<!-- <div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h1>{{ post.title }}</h1>
+
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+
+  <\!-- pagination --\>
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="webjeda">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
+</div> -->
